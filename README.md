@@ -1,6 +1,6 @@
 # flutter_practice
 
-A new Flutter project.
+Tutorial form google [codelab](https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=ko#0)
 
 ## Getting Started
 
